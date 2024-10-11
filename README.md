@@ -1,1 +1,1 @@
-# task1 for the html & css course
+# tasks for the html & css course
